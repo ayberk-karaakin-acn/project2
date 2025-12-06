@@ -227,7 +227,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - your.email@example.com
+Ayberk Karaakin - ayberk.karaakin@accenture.com
 
 Project Link: [https://github.com/yourusername/myapp](https://github.com/yourusername/myapp)
 

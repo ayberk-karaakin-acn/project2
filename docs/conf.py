@@ -13,8 +13,8 @@ sys.path.insert(0, os.path.abspath("../src"))
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "MyApp"
-copyright = "2025, Your Name"
-author = "Your Name"
+copyright = "2025, Ayberk Karaakin"
+author = "Ayberk Karaakin"
 release = "0.1.0"
 version = "0.1.0"
 
