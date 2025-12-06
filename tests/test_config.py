@@ -56,3 +56,4 @@ class TestConfigLoading:
         assert "app" in config
         assert "logging" in config
 
+

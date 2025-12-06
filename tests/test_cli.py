@@ -99,3 +99,4 @@ class TestCoreFunction:
         result = run_application({})
         assert result == "will be implemented"
 
+

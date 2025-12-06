@@ -125,3 +125,4 @@ Example 3: Verbose Mode
    INFO: MyApp completed successfully
    will be implemented
 
+

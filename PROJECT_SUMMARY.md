@@ -286,3 +286,4 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 Start coding by replacing the placeholder in `src/myapp/core.py` with your implementation.
 
+

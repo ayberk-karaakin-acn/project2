@@ -40,3 +40,4 @@ max-attributes=10
 # Maximum number of public methods for a class
 max-public-methods=20
 
+

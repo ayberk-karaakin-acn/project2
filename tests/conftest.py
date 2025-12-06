@@ -61,3 +61,4 @@ def temp_log_file(tmp_path: Path) -> Path:
     """
     return tmp_path / "test.log"
 
+
